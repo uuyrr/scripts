@@ -1,2 +1,3 @@
 # scripts
-Shell and automation scripts
+
+Personal scripts — notes, snippets, and experiments.
